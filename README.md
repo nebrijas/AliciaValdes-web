@@ -1,4 +1,4 @@
-# Actividad dirigida 1
+# Repositorio de trabajo del módulo de periodismo de datos II
 Periodismo de Datos II 
 ##  Naturaleza en LLlamas
 En este enlace, podrá encontrar la publicación: https://prodavinci.com/naturalezaenllamas/index.html?home
@@ -15,11 +15,14 @@ En este contexto, se muestran características importantes del periodismo de Dat
 El equipo de Prodavinci investigó y analizó datos de la seguridad social en Venezuela: salarios y pensiones durante los últimos 20 años, revelando la triste realidad de millones de trabajadores que se enfrentan a un futuro incierto.
 Este trabajo tan detallado y humano los llevó a obtener el premio: Rey de España 2022
 
-
 Más allá del premio, un aspecto muy importante, es el trabajo en equipo que llevó a consolidar esta investigación y ,sobre todo,  a dar a conocer ante el mundo la situación de los trabajadores y  demostrar la profunda crisis social de este país.
 
 ## ¿ Qué me gustó?
 La historia humana tras los datos. La presentación visual de datos, gráficos y rostros humanos en blanco y negro, dan una perspectiva interesante y un enfoque llamativo a la presentación. Adicional a ello, algo interesante, es como se le da protagonismo a los afectados, brindando un enlace para leer la historia, a medida que leemos la investigación en la pantalla. 
 
 Finalmente, ambos reportajes de datos, brindarán a la audiencia  una explicación detallada  de cómo se obtuvieron los datos  y cómo fue el proceso de análisis, investigación y visualización de datos.  Estos detalles se encuentran al final de la investigaciín.
+
 Podrás encontrar  este reportaje en:https://lapromesarota.prodavinci.com/
+
+-[Actividad dirigida 1](ad1.md)
+-[Actividad dirigida 2](ad2.md)
