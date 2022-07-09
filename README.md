@@ -41,8 +41,8 @@ Finalmente, ambos reportajes de datos, brindarán a la audiencia  una explicaci�
 * Herramientas como PW: nos permite saber sobre el sitio en que estamos trabajando
 * Ls: que contiene la carpeta
 *Git Status: estado del repositorio.
-Git bash: comandos de git para Windows
-La opción DD en Phyton para borrar.
+* Git bash: comandos de git para Windows
+* La opción DD en Phyton para borrar.
 
 
 Podrás encontrar  este reportaje en:https://lapromesarota.prodavinci.com/
