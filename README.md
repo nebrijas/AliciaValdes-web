@@ -22,7 +22,31 @@ La historia humana tras los datos. La presentación visual de datos, gráficos y
 
 Finalmente, ambos reportajes de datos, brindarán a la audiencia  una explicación detallada  de cómo se obtuvieron los datos  y cómo fue el proceso de análisis, investigación y visualización de datos.  Estos detalles se encuentran al final de la investigaciín.
 
+# Aprendizaje y Lecciones de la asignatura
+
+* Inicio este comentario, lamentando no haber podido cumplir con todas las asignaciones como hubiese querido. creo que he sido la más atrasada en cuanto a resultados de la asignatura; no obstante, aunque al principio me pareció un poco abrumadora, confieso que las últimas asignaciones aunque no las pude desarrollar a cabalidad, me ha quedado unos deseos inmensos de poder aprender, sobre todo, el manejo de *dataframes*. 
+* En la asignatura he reforzado la idea de que el lenguaje de programación es para el que desconoce la temática un desafío en el sentido de que debes saber cómo preguntar para que los resultados se obtengan. Un solo error, cambia todo.
+* Conocí y pude explorar un poco el ***Github***, una herramienta que nunca había escuchado mencionar ni me imaginé que albergara tanta información. Es una manera de llevar de manera ordenada una web personal o como grupo. De igual manera el lenguana de ***Markdown***, fue nuevo para mí y es sumamente interesante como los detalles utilizando su formato le cambia el aspecto a los textos. Una manera innovadora de aprender a presentar textos.
+* Las prácticas fueron intensas en mi opinión personal, ya que requería una completa concentración e incluso ver una y otra vez detalles; sin embargo, fue un reto personal, y aunque me quedé a mitad de camino, me queda la satisfacción que lo que hice requirió de mucho esfuerzo y me han quedado muchos aprendizajes como profesional, estudiante  y a nivel personal.
+
+## ¿ Qué me impactó?
+-El reto de aprendizaje, sobre todo, para el principiante y cuando todo sale mal y no sabes qué hacer.
+
+## ¿Qué me gustó?
+- Aunque por diversas stuaciones no pude enviar muchos correos y no estuve en todas las clases, me gustó que el profesor estuviera dispuesto a ayudar a los estudiantes.
+
+## Teoría aprendida
+* Markdown: un lenguaje que permite darle un formato básico pero atractivo al y texto.
+* Librerías de Python: nos muestran diferentes opciones de tiempo, análisis de datos, colores, etc.
+* Herramientas como PW: nos permite saber sobre el sitio en que estamos trabajando
+* Ls: que contiene la carpeta
+*Git Status: estado del repositorio.
+Git bash: comandos de git para Windows
+La opción DD en Phyton para borrar.
+
+
 Podrás encontrar  este reportaje en:https://lapromesarota.prodavinci.com/
+
 
 -[Actividad dirigida 1](ad1.md)
 -[Actividad dirigida 2](ad2.md)
