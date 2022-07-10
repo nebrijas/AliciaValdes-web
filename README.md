@@ -20,7 +20,11 @@ Más allá del premio, un aspecto muy importante, es el trabajo en equipo que ll
 ## ¿ Qué me gustó?
 La historia humana tras los datos. La presentación visual de datos, gráficos y rostros humanos en blanco y negro, dan una perspectiva interesante y un enfoque llamativo a la presentación. Adicional a ello, algo interesante, es como se le da protagonismo a los afectados, brindando un enlace para leer la historia, a medida que leemos la investigación en la pantalla. 
 
-Finalmente, ambos reportajes de datos, brindarán a la audiencia  una explicación detallada  de cómo se obtuvieron los datos  y cómo fue el proceso de análisis, investigación y visualización de datos.  Estos detalles se encuentran al final de la investigaciín.
+Finalmente, ambos reportajes de datos, brindarán a la audiencia  una explicación detallada  de cómo se obtuvieron los datos  y cómo fue el proceso de análisis, investigación y visualización de datos.  Estos detalles se encuentran al final de la investigación.
+
+Podrás encontrar  este reportaje en:https://lapromesarota.prodavinci.com/
+
+
 
 # Aprendizaje y Lecciones de la asignatura
 
@@ -36,16 +40,18 @@ Finalmente, ambos reportajes de datos, brindarán a la audiencia  una explicaci�
 - Aunque por diversas stuaciones no pude enviar muchos correos y no estuve en todas las clases, me gustó que el profesor estuviera dispuesto a ayudar a los estudiantes.
 
 ## Teoría aprendida
-* Markdown: un lenguaje que permite darle un formato básico pero atractivo al y texto.
+* Markdown: un lenguaje que permite darle un formato básico pero atractivo al texto.
 * Librerías de Python: nos muestran diferentes opciones de tiempo, análisis de datos, colores, etc.
 * Herramientas como PW: nos permite saber sobre el sitio en que estamos trabajando
 * Ls: que contiene la carpeta
-*Git Status: estado del repositorio.
+* Git Status: estado del repositorio.
 * Git bash: comandos de git para Windows
 * La opción DD en Phyton para borrar.
+* Dataframes:estructura de datos que permite trabajar con valores, columnas y tablas. 
+* B: En jupyter funciona para crear una nueva celda, sin necesidad de ir a la barra de herramientas.
+* GitHub: sitio web que permite almacenar en la nube gran cantidad de información, administrar códigos y llevar de manera minuciosa un registro.
+* Programación literaria: exposición lógica, en un lenguaje más entendible de programación. 
 
-
-Podrás encontrar  este reportaje en:https://lapromesarota.prodavinci.com/
 
 
 -[Actividad dirigida 1](ad1.md)
