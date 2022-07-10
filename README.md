@@ -34,10 +34,10 @@ Podrás encontrar  este reportaje en:https://lapromesarota.prodavinci.com/
 * Las prácticas fueron intensas en mi opinión personal, ya que requería una completa concentración e incluso ver una y otra vez detalles; sin embargo, fue un reto personal, y aunque me quedé a mitad de camino, me queda la satisfacción que lo que hice requirió de mucho esfuerzo y me han quedado muchos aprendizajes como profesional, estudiante  y a nivel personal.
 
 ## ¿ Qué me impactó?
--El reto de aprendizaje, sobre todo, para el principiante y cuando todo sale mal y no sabes qué hacer.
+El reto de aprendizaje, sobre todo, para el principiante y cuando todo sale mal y no sabes qué hacer.
 
 ## ¿Qué me gustó?
-- Aunque por diversas stuaciones no pude enviar muchos correos y no estuve en todas las clases, me gustó que el profesor estuviera dispuesto a ayudar a los estudiantes.
+Aunque por diversas stuaciones no pude enviar muchos correos y no estuve en todas las clases, me gustó que el profesor estuviera dispuesto a ayudar a los estudiantes.
 
 ## Teoría aprendida
 * Markdown: un lenguaje que permite darle un formato básico pero atractivo al texto.
