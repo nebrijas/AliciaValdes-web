@@ -51,3 +51,4 @@ Podrás encontrar  este reportaje en:https://lapromesarota.prodavinci.com/
 -[Actividad dirigida 1](ad1.md)
 -[Actividad dirigida 2](ad2.md)
 -[Actividad dirigida 3](ad3.md)
+-[Actividad dirigida 4](api-pandas-covid.ipynb)
